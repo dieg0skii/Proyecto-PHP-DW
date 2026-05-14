@@ -14,7 +14,7 @@ if (isset($_SESSION['user_id'])) {
 
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <title>AdminLTE 4 | Login</title>
+    <title>ProyectoPHP | Login</title>
 
     <!--begin::Accessibility Meta Tags-->
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
@@ -24,7 +24,7 @@ if (isset($_SESSION['user_id'])) {
     <!--end::Accessibility Meta Tags-->
 
     <!--begin::Primary Meta Tags-->
-    <meta name="title" content="AdminLTE 4 | Login Page v2" />
+    <meta name="title" content="ProyectoPHP | Login Page" />
     <meta name="author" content="Dieg0skii" />
     <meta name="description"
         content="Plataforma de inicio de sesion al sistema." />
